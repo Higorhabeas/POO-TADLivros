@@ -1,0 +1,14 @@
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\bin\Debug\net8.0\TAD_Livros.exe
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\bin\Debug\net8.0\TAD_Livros.deps.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\bin\Debug\net8.0\TAD_Livros.runtimeconfig.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\bin\Debug\net8.0\TAD_Livros.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\bin\Debug\net8.0\TAD_Livros.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.AssemblyInfo.cs
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\refint\TAD_Livros.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\TAD_Livros.genruntimeconfig.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\TAD_Livros\obj\Debug\net8.0\ref\TAD_Livros.dll
